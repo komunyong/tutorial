@@ -16,6 +16,6 @@ pip install torch
 pip install tiktoken
 
 # Everytime
+cd mlops/llm_from_scratch/venv_llm
 source Scripts/activate
-pip install ipykernel
 ```

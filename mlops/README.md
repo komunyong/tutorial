@@ -1,6 +1,17 @@
 # Machine Learning Operation (MLOps)
 This project is created for testing purpose based on open source software tools.
 
+
+
+## Why do I write this
+- long time to learn
+- passionate in AI/ML as Data Engineer
+- Need to keep this to remind myself later
+- Need to understand trend
+- Need to understand equation behind, why it popular
+- Make some project for my port folio
+- start point of mlops that will come next
+
 ## List of Techstacks
 - Google Colabs
 - MLFlow

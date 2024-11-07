@@ -17,12 +17,17 @@ To create Machine Learning Translation that can understand and predict something
 2. Evaluation: Once they done with learning, they need to take examination to test their knowledge. It will be the thing that they did not know before but need to based on the concept that thay learn (because we teach them to learn, not to memorize). This step they will not get the answer for right or wrong, we just keep tracking the result and say pass or fail.
 3. Prediction: Once they pass the test (depends on us that will set the threshold of passing), we can let them use these knowledge to get a real job, do the real work. E.g. ChatBot.
 
+<<<<<<< HEAD
 **NOTE**: In Training phase can do behind the scene and we don't know `How long of this person have been learning`, similar to the person that already have experience in the field, in machine we called `pre-trained model`.
+=======
+**NOTE**: In Training phase can do behind the scene and we don't know `How long of this person have been learning`, similar to the person that already have experience in the field, in machine we called `pre-trained` model.
+>>>>>>> 21b1725dff1b0e229278207bf5f645e4c39988bc
 
 ## How does it work?
 
 ![Transformer Architecture](images/transformer_architecture.png)
 
+<<<<<<< HEAD
 Thats it! easy right?
 
 ...
@@ -64,3 +69,5 @@ POST:
     - NOTE: Output from Encoder
 TRANSFORMER:
     - 
+=======
+>>>>>>> 21b1725dff1b0e229278207bf5f645e4c39988bc
